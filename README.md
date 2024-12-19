@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Computer Science senior** at the Universit
 
 - 🔍 **Exploring:** Machine Learning, Full-Stack Development, and AI Applications.
 - 🎓 **Pursuing:** Bachelor's in Computer Science at UMD.
-- 🌟 **Passionate About:** Building impactful applications, mentoring others, and contributing to open-source projects.
+- 🌟 **Passionate About:** Building impactful applications, and mentoring others.
 - ✨ **Favorite Tools & Tech:** Python, ReactJS, Flask, MongoDB, Tailwind CSS, OpenCV, and GitHub.
 
 
