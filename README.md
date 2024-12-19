@@ -23,5 +23,5 @@ Welcome to my GitHub profile! I'm a **Computer Science senior** at the Universit
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio](https://portfolio-vasu-mittal.vercel.app/)
+- 📠 [Email](vmittal1@terpmail.umd.edu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vasumittal1/)
