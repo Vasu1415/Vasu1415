@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Vasu Mittal! 👋
 
-<!--
-**Vasu1415/Vasu1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science senior** at the University of Maryland, College Park, passionate about solving real-world problems through technology. Here's a quick peek into what I do and enjoy!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔍 **Exploring:** Machine Learning, Full-Stack Development, and AI Applications.
+- 🎓 **Pursuing:** Bachelor's in Computer Science at UMD.
+- 🌟 **Passionate About:** Building impactful applications, mentoring others, and contributing to open-source projects.
+- ✨ **Favorite Tools & Tech:** Python, ReactJS, Flask, MongoDB, Tailwind CSS, OpenCV, and GitHub.
+
+
+## 🌟 Fun Facts About Me
+
+- 📷 **Hobbies:** Photography, anime, manga, and audiobooks.
+- ✏️ **Mentor:** Guided students at hackathons like Technica and served as a TA at my university.
+- 🎵 **Music Enthusiast:** Currently exploring the GTZAN Dataset for Music Genre Classification.
+- 🤓 **Lifelong Learner:** Always looking to level up my skills and create meaningful work.
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio](https://portfolio-vasu-mittal.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vasumittal1/)
